@@ -1,16 +1,18 @@
 <h1 align="center"> Hola! 👋, Soy Nicolás!</h1>
 
+<div align="center">
+  💻 Front-End Developer • React Lover • Apasionado por la tecnología
+</div>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre Mí.
 
-
 <pre>
-💻 Estoy desarrollando mis habilidades como programador web Front-End | Abriendome a más tecnologías.
-📚 He realizado cursos intensivos de desarrollo web y lenguajes de programación.
-📝 Tengo interes en participar en proyectos grandes o pequeños, que representen un desafío.
-🔭 Actualmente trabajo creando apps con React, construyendo con VITE.
-🌱 Mi enfoque es ser resolutivo, cumplir con metas, comprometerme con las necesidades de otras personas.
-🌟 Mis Lenguajes principales: JS, REACT.
-🚩 Quiero convertirme en un programador mas consistente, y aprender de personas con mayor experiencia.
+🎯 Enfocado en mejorar día a día como desarrollador web Front-End.
+📚 Formación en desarrollo web intensivo.
+🌱 Apasionado por aprender nuevas tecnologías y participar en proyectos desafiantes.
+🔭 Actualmente trabajo creando apps con React + VITE.
+💬 Mis lenguajes principales son JavaScript y React.
+🚩 Busco crecer profesionalmente y aprender de personas con experiencia.
 </pre>
 
 ## 💻Stack Tecnológico:
