@@ -49,17 +49,17 @@
 
 
 
-<div align="center">
-  <h3><b>Contactame! </b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/nicolas-gabriel-raffonaud-9aa988106/" target="_blank">
-  <img align="center" alt="Nicolas Raffonaud | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
+## 📫 Contacto
 
-<a href="nicolasraffonaudsoft@gmail.com" >
-  <img align="center" alt="Nicolas Raffonaud | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicolas-gabriel-raffonaud-9aa988106/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nicolasraffonaudsoft@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 
 ---
