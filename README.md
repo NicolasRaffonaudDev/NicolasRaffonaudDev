@@ -13,7 +13,8 @@
 🚩 Quiero convertirme en un programador mas consistente, y aprender de personas con mayor experiencia.
 </pre>
 
-## 💻Stack Tecnológico <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## 💻Stack Tecnológico:
+
 
 ## 🧠 Lenguajes de Programación
 
