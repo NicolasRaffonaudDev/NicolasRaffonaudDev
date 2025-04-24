@@ -58,10 +58,7 @@
 <a href="nicolasraffonaudsoft@gmail.com" >
   <img align="center" alt="Nicolas Raffonaud | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<p>
-<p align="center">
-  <img src="https://github.com/NicolasRaffonaudDev/NicolasRaffonaudDev/blob/main/github-user-contribution.svg" alt="snake">
-</p>
+
 
 ---
 
